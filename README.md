@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 🖖
 
 <!--
 **alaskaquefalta/alaskaquefalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alaska, a mathematical researcher and industrial engineering student based in Brasil.
+
+I've been coding in C, R and Python. I'm self-taught!
+
+I'm currently learning both Octave and Fortran! 
+
+My goal is to learn all I can to collaborate and contribute to the fields I'm working on as much as possible!
+
+Currently working on a project about Subdivision Schemes and Applications. Ask me about it!
+
+I can be reached through my socials, all of which are @alaskaquefalta !
+
+**Fun Facts:**
+
+- I have two cats: Leopoldo and Pérola!
+- My favorite anime is Given and my favorite manga is Demon Slayer.
+- My first contact with college level maths was with Real Analysis, and it became my favorite subject!
