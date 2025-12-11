@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Alaska, a mathematical researcher and industrial engineering student based in Brasil.
 
-I've been coding in C, R and Python. I'm self-taught! I'm also really proficient in LaTeX!
+I've been coding in C, R and Python. I'm self-taught! I'm also really proficient in LaTeX and typst!
 
 I'm currently learning both Octave and Fortran! 
 
