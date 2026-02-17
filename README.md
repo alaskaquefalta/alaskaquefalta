@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 I'm Alaska, a mathematical researcher and industrial engineering student based in Brasil.
 
-I've been coding in C, R and Python. I'm self-taught! I'm also really proficient in LaTeX and typst!
+I'm a self-taught programmer, and really proficient in LaTeX and typst!
 
-I'm currently learning both Octave and Fortran! 
+I'm currently learning both Octave and Fortran. 
 
 My goal is to learn all I can to collaborate and contribute to the fields I'm working on as much as possible!
 
 Currently working on a project about Subdivision Schemes and Applications. Ask me about it!
 
-I can be reached through my socials, all of which are @alaskaquefalta !
+I can be reached through my socials, all of which are @alaskaquefalta .
 
 **Fun Facts:**
 
