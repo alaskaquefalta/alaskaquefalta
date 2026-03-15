@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 I'm Alaska, a mathematical researcher and industrial engineering student based in Brasil.
 
+My Academic CV: https://lattes.cnpq.br/7797253381598002
+
 I'm a self-taught programmer, and really proficient in LaTeX and typst!
 
 I'm currently learning both Octave and Fortran. 
 
-My goal is to learn all I can to collaborate and contribute to the fields I'm working on as much as possible!
+My goal is to learn all I can to collaborate in and contribute to the fields I'm working on as much as possible!
 
 Currently working on a project about Subdivision Schemes and Applications. Ask me about it!
 
@@ -29,6 +31,9 @@ I can be reached through my socials, all of which are @alaskaquefalta .
 
 **Fun Facts:**
 
-- I have two cats: Leopoldo and Pérola!
-- My favorite anime is Given and my favorite manga is Demon Slayer.
+- I have one cat, Pérola!
 - My first contact with college level maths was with Real Analysis, and it became my favorite subject!
+
+
+
+
