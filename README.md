@@ -21,7 +21,7 @@ My Academic CV: https://lattes.cnpq.br/7797253381598002
 
 I'm a self-taught programmer, and really proficient in LaTeX and typst!
 
-I'm currently learning both Octave and Fortran. 
+I'm currently learning both C/C++ and R
 
 My goal is to learn all I can to collaborate in and contribute to the fields I'm working on as much as possible!
 
